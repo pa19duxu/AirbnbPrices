@@ -1,1 +1,31 @@
-data.csv
+# ── Data (too large for git; download from Inside Airbnb, see README) ────────
+Code/data.csv
+/AirbnbDataset.xlsx
+
+# ── Environments / IDE / OS ───────────────────────────────────────────────────
+.venv/
+.idea/
+.claude/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# ── Local working material, not part of the submission ───────────────────────
+# German original notebook (the English version lives in Code/)
+/Combined_Analysis.ipynb
+# Exploratory extensions, not referenced in the paper
+/Experiments.ipynb
+/Prediction_improved.ipynb
+# Literature PDFs, slides, presentation drafts, internal notes
+/Sources/
+/slides_export/
+/slides_v2/
+*.pdf
+*.docx
+*.pptx
+/Projekt_Erklaerung_DE.md
+/Limitations_Outlook_Conclusion_v2.md
+/Aenderungen_Gruppendokument.md
+/presentation_script.md
+/presentation_spoken_text.txt
+/Quellen.txt

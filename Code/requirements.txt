@@ -1,0 +1,18 @@
+# Airbnb price prediction, London — pinned library versions
+# Generated from the virtual environment used for the analysis (Python 3.14)
+# to ensure reproducibility. Install with:  pip install -r requirements.txt
+#
+# Data: Inside Airbnb, London, snapshot of September 16, 2025 (data.csv)
+
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+statsmodels==0.14.6
+xgboost==3.2.0
+optuna==4.8.0
+shap==0.51.0
+matplotlib==3.10.9
+seaborn==0.13.2
+jupyter
+ipykernel
