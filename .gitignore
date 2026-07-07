@@ -23,9 +23,12 @@ __pycache__/
 *.pdf
 *.docx
 *.pptx
+# Final submission version of the seminar paper is tracked despite *.docx
+!Seminar_Paper_AirBnB_Wagner_König_Grahl-4.docx
 /Projekt_Erklaerung_DE.md
 /Limitations_Outlook_Conclusion_v2.md
 /Aenderungen_Gruppendokument.md
+/Kapitel1_gekuerzt.md
 /presentation_script.md
 /presentation_spoken_text.txt
 /Quellen.txt
