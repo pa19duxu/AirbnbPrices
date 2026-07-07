@@ -1,4 +1,4 @@
-# Predicting Airbnb Prices in a City — London
+# Predicting Airbnb Prices in a City - London
 
 Seminar paper project for the course *Big Data and Smart Cities* (Universität Leipzig,
 Chair of Sustainable Real Estate and Urban Development, Prof. Melanie Krause, Ph.D.).
@@ -41,10 +41,10 @@ the variance in log prices (in sample).
 ```
 README.md                      this file
 Code/
-  Combined_Analysis.ipynb      full analysis pipeline (data preparation → statistics →
-                               ML comparison → XAI → evaluation)
+  Combined_Analysis.ipynb      full analysis pipeline (data preparation, statistics,
+                               ML comparison, XAI, evaluation)
   requirements.txt             pinned package versions (Python 3.14)
-  data.csv                     raw data — not in git, see below
+  data.csv                     raw data, not in git (see below)
 ```
 
 ## Data
